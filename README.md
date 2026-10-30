@@ -26,6 +26,7 @@ Para avaliar as funcionalidades implementadas e navegar pelas telas ativas do pr
 * **Vue.js 3** (Composition API)
 * **Vite**
 * **Tailwind CSS v4**
+* **Javascript**
 * **Vue Router**
 * **GitHub Pages**
 
