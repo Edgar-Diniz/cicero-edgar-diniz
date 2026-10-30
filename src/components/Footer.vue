@@ -5,7 +5,7 @@
   <footer class="w-full bg-white py-16 md:py-28 px-6 md:px-11 flex flex-col md:flex-row items-start font-genos">
     
     <div class="w-full md:w-1/2 flex flex-col items-start min-h-auto md:min-h-[350px] mb-16 md:mb-0">
-      <img src="/img/logotipo_vinci.jpg" alt="Logótipo footer" class="h-10 md:h-12 w-auto object-contain">
+      <img src="/img/logotipo_vinci.png" alt="Logótipo footer" class="h-10 md:h-12 w-auto object-contain">
       
       <div class="mt-8 md:mt-auto flex flex-col gap-1 text-sm md:text-[1.1rem] text-gray-500 uppercase tracking-[0.3em] md:tracking-[0.4em] pt-4 md:pt-12">
         <p>© COPYRIGHT 2026.</p>

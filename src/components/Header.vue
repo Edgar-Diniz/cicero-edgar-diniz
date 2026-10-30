@@ -8,7 +8,7 @@ const menuMobileAberto = ref(false)
 <template>
   <header class="w-full flex justify-between items-center py-4 md:py-5 px-4 sm:px-8 lg:px-11 bg-white text-black relative z-50 border-b border-gray-100">
     <div>
-      <img src="/img/logotipo_vinci.jpg" alt="Logótipo Vinci" class="h-8 sm:h-10 md:h-12 w-auto object-contain" />
+      <img src="/img/logotipo_vinci.png" alt="Logótipo Vinci" class="h-8 sm:h-10 md:h-12 w-auto object-contain" />
     </div>
 
     <button 
