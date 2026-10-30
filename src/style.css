@@ -8,7 +8,8 @@
   color-scheme: light;
 }
 
-html, body {
+html, body, #app {
   background-color: #ffffff !important;
   color: #000000 !important;
+  min-height: 100vh;
 }
