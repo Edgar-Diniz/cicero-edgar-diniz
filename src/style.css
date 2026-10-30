@@ -4,7 +4,11 @@
   --font-genos: "Genos", sans-serif;
 }
 
-body {
+:root {
+  color-scheme: light;
+}
+
+html, body {
   background-color: #ffffff !important;
-  color: #000000;
+  color: #000000 !important;
 }
