@@ -9,7 +9,7 @@ O **Vinci** é uma aplicação web desenvolvida para simular a interface e o cat
 Para avaliar as funcionalidades implementadas e navegar pelas telas ativas do projeto, utilize os seguintes caminhos:
 
 1. **Navegação Principal (Header):**
-* **Menu "Veículos":** Ao passar o cursor ou clicar em **Veículos** no topo, o **Mega Menu** interativo é expandido, exibindo as opções do catálogo.
+* **Menu "Veículos":** Ao clicar em **Veículos** no topo, o **Mega Menu** interativo é expandido, exibindo as opções do catálogo.
 * **Botão "Home":** Clique em **Home** a qualquer momento no cabeçalho para retornar à página inicial do site.
 
 
