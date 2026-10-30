@@ -4,7 +4,14 @@
   --font-genos: "Genos", sans-serif;
 }
 
-body {
-  background-color: #ffffff;
-  color: #000000;
+:root {
+  color-scheme: light;
+}
+
+html, body, #app {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
 }
